@@ -69,3 +69,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+Chrome-Password-Extractor.depend
+bin/Debug/libChrome-Password-Extractor.def
+Chrome-Password-Extractor.cbp
+sqlite3/sqlite3.c
+sqlite3/sqlite3.h
